@@ -1,2 +1,4 @@
 # Churn_predictor
-Decision tree
+Random Forest Classifier to predict churn.
+```
+
